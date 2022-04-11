@@ -1,1 +1,3 @@
-# tsconfig
+# @tesselit/tsconfig
+
+TypeScript config.
