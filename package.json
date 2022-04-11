@@ -1,0 +1,25 @@
+{
+  "name": "@tesselit/tsconfig",
+  "version": "1.0.0",
+  "description": "TypeScript config",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "peerDependencies": {
+    "typescript": "4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesselit/tsconfig.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "bugs": {
+    "url": "https://github.com/tesselit/tsconfig/issues"
+  },
+  "homepage": "https://github.com/tesselit/tsconfig#readme"
+}
