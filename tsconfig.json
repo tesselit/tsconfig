@@ -16,7 +16,6 @@
     // Modules
     "module": "es2022",
     "moduleResolution": "node",
-    "resolveJsonModule": true,
     "types": [],
     // Emit
     "declaration": true,
@@ -24,7 +23,6 @@
     "importHelpers": true,
     "importsNotUsedAsValues": "error",
     "newLine": "lf",
-    "noEmitOnError": true,
     "preserveValueImports": true,
     "sourceMap": true,
     // Interop Constraints
@@ -39,7 +37,6 @@
     "target": "es2022",
     // Projects
     "composite": true,
-    "incremental": true,
     // Completeness
     "skipLibCheck": true
   }
