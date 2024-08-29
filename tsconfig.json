@@ -14,27 +14,25 @@
     "noUnusedParameters": true,
     "strict": true,
     // Modules
-    "module": "es2022",
-    "moduleResolution": "nodenext",
+    "allowArbitraryExtensions": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
     "types": [],
     // Emit
     "declaration": true,
     "declarationMap": true,
     "importHelpers": true,
-    "importsNotUsedAsValues": "error",
-    "newLine": "lf",
-    "preserveValueImports": true,
     "sourceMap": true,
     // Interop Constraints
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
+    "verbatimModuleSyntax": true,
     // Language and Environment
     "lib": [
-      "es2022"
+      "esnext"
     ],
-    "target": "es2022",
+    "target": "es2023",
     // Projects
     "composite": true,
     // Completeness
