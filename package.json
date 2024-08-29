@@ -1,6 +1,6 @@
 {
   "name": "@tesselit/tsconfig",
-  "version": "4.9.0",
+  "version": "5.0.0",
   "description": "TypeScript config",
   "license": "MIT",
   "main": "tsconfig.json",
@@ -8,7 +8,7 @@
     "tsconfig.json"
   ],
   "peerDependencies": {
-    "typescript": "4.9"
+    "typescript": "5.0"
   },
   "repository": {
     "type": "git",
