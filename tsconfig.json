@@ -24,6 +24,7 @@
     "sourceMap": true,
     // Interop Constraints
     "allowSyntheticDefaultImports": true,
+    "isolatedDeclarations": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
     // Language and Environment
